@@ -1,4 +1,4 @@
-
+package algoProblems;
 public class EquilibriumIndex {
 	public static void main(String[] args){
 		int[] A = new int[7];
